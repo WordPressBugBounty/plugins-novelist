@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'ashleyfae/novelist',
-        'pretty_version' => '1.3.0',
-        'version' => '1.3.0.0',
-        'reference' => '2598a659bded054274150cf0aa0a83617d5c6269',
+        'pretty_version' => '1.4.0',
+        'version' => '1.4.0.0',
+        'reference' => 'a96b30cdd6b1f05688606d9a4f85e3e84eccbd7c',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'ashleyfae/novelist' => array(
-            'pretty_version' => '1.3.0',
-            'version' => '1.3.0.0',
-            'reference' => '2598a659bded054274150cf0aa0a83617d5c6269',
+            'pretty_version' => '1.4.0',
+            'version' => '1.4.0.0',
+            'reference' => 'a96b30cdd6b1f05688606d9a4f85e3e84eccbd7c',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

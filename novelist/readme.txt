@@ -3,8 +3,8 @@ Contributors: NoseGraze
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L2TL7ZBVUMG9C
 Tags: books, authors, goodreads, writing, publishing, writer
 Requires at least: 5.0
-Tested up to: 6.8.2
-Requires PHP: 7.4
+Tested up to: 7.1
+Requires PHP: 8.0
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -127,10 +127,14 @@ function agNovelistDisableArchives($args) {
 
 == Upgrade Notice ==
 
-= 1.3.0 =
-Import books from CSV files
+= 1.4.0 =
+Requires PHP 8.0+ and security fixes
 
 == Changelog ==
+
+= 1.4.0 =
+* Requires PHP 8.0+
+* Security: Add nonce check to system info download
 
 = 1.3.0 - 2 August 2025 =
 * Requires PHP 7.4+
